@@ -2,7 +2,7 @@
 
 For this project I used a sample research data set to analyze potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.  In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. The goal of this project was to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-**Skills Used: 
+**Skills Used: **
 
 Pandas Library 
 
@@ -11,7 +11,7 @@ Jupyter Notebook
 Matplotlib library
 
 
-**Tasks Completed: 
+**Tasks Completed: **
 
 Created scatter plot that shows how the tumor volume changes over time for each treatment.
 
