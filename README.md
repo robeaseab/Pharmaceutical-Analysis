@@ -12,7 +12,7 @@ Created a scatter plot that shows how the number of metastatic (cancer spreading
 Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
-Samples: 
+
 ![1](https://raw.githubusercontent.com/robeaseab/Pharmaceutical-Analysis/master/Pymaceuticals/Pymaceuticals_1_Tumor_Vol_Response.png)
 
 ![2](https://raw.githubusercontent.com/robeaseab/Pharmaceutical-Analysis/master/Pymaceuticals/Pymaceuticals_2_Meta_Spread.png)
